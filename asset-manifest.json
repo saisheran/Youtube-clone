@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/screenbeam/static/css/main.7064deb2.css",
+    "main.js": "/screenbeam/static/js/main.47eeb55c.js",
+    "index.html": "/screenbeam/index.html",
+    "main.7064deb2.css.map": "/screenbeam/static/css/main.7064deb2.css.map",
+    "main.47eeb55c.js.map": "/screenbeam/static/js/main.47eeb55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.47eeb55c.js"
+  ]
+}
